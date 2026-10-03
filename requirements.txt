@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+torch
+matplotlib
+seaborn
+streamlit
+shap
+joblib
+optuna
+openpyxl

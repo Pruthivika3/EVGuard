@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+data/nasa_raw/
+data/eda/
+data/evaluation/
+
+*.tar
+*.tar.gz
+*.zip
+
+.git/
